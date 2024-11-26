@@ -1,4 +1,4 @@
-Clone project. Have .NET 9 installed and an IDE set up to do .NET development to work through any of these exercises.
+Clone project. Have .NET 9 installed and an IDE set up to do .NET C# development to work through any of these exercises.
 
 Order Validation Exercise
 
