@@ -4,4 +4,4 @@ A new requirement has come in when persisting data to OrderDemo. There is a User
 
 Abstract away the data persistance, and write two unit tests: one which returns success when the UserId is valid, and a second that asserts a thrown ArgumentException when it is not.  
 
-In addition, make a proposal on how to refactor the structure of the existing code to make it easier to make changes to accomodate new requirements like this in the future with a lower risk of regressions, and implement if time permits.
+Make note of challenges in the existing structure of the code when implementing these tests, and, make a proposal on how to refactor it, with a goal of making it easier to implement new requirements like this in the future with a lower risk of regressions.  Implement if time permits.
